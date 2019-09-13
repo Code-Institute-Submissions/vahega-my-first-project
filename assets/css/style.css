@@ -16,23 +16,44 @@ position: fixed;
   padding: 0px;
   text-align: center;}
  
+ .old {border:0px;
+max-height: 200;
+ transform: translate(0%, -100%);
+  background-color: rgb(0,0,0); 
+  
+  background-color: rgba(0,0,0, 0.2); 
+  
 
+    overflow:auto;
+margin-bottom:0px;
+
+    }
+ .card mb-4 shadow-sm{ padding-left: 10px;
+     
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
  
-  li card-body card-header{
-   top: 30%;
- 
+  margin-bottom:0px;
+    }
+.card-header{
+    margin-bottom: 0px;
+ padding-left: 10px;
    background-color: rgb(0,0,0); 
   background-color: rgba(0,0,0, 0.4); 
-   font-size: 30px;
-     left:10%;
-     color: white;
-    float: left;
-  width: 25%;
-   height:200px ; 
-  text-align: center;
- padding: 0px 0px;
-  }
-
+    }
+    .card-body{padding-left: 10px;
+       
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
+    }
+    .card-deck mb-3 text-center{
+        margin-bottom: 0px;
+       padding: 0px;
+      margin:0px;   
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
+    }
+    
 .dropbtn {
   background-color: #3498DB;
   color: white;
@@ -41,10 +62,12 @@ position: fixed;
   border: none;
   cursor: pointer;
 }
-.card mb-4 shadow-sm
-{background-color: rgba(0,0,0, 0.4);}
-.card-header{background-color: rgba(0,0,0,0.2);}
-.card-deck mb-3 text-cente{background-color: rgba(0,0,0,0.4);}
+.list-unstyled mt-3 mb-4{padding: 0px;
+         margin-bottom:0px;
+    border:0px;
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
+    }
 
 
 
