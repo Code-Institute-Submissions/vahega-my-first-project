@@ -1,20 +1,11 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
-# my-first--homework-
-# my-first--homework-
-# psychic-succotash
-# my-first-project
-# my-first-project
-# my-first-project
+Horizon  
+The website for Managing Knowledge.
+"Knowledge management is a discipline that promotes an integrated approach to identifying, 
+capturing, evaluating, retrieving, and sharing all of an enterprise's information assets.
+These assets may include databases, documents, policies, procedures, 
+and previously un-captured expertise and experience in individual workers."
+This web site will provide the user to to create a knowledge base data . 
+Marketing tool for that data .
+Tool use for project 
+Bootstrap templet 
+https://w3schools.com templet 
