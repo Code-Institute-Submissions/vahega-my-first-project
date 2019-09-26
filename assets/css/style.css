@@ -1,18 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Bilbo+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gayathri&display=swap');
+.parallax {
+  background-image:url("assets/images/hol.jpg") ;
+
+background-attachment:fixed;
+background-position:center;
+background-size: cover;
+ }
 
 
-.bg-text {
- font-family: 'Bilbo Swash Caps', cursive;
- 
-  color: white;
-  font-weight: bold;
-  font-size: 30px;
-position: fixed;
-  top: 30%;
-  left: 30%;
-}
-
-.card{ font-family: 'Bilbo Swash Caps', cursive;
+.card{ font-family: 'Gayathri', sans-serif;
  background-color: #b3e6ff; 
  margin-bottom:0px;
  font-weight: bold;
@@ -20,4 +17,23 @@ position: fixed;
 }
 h6{font-size: 18px;
     font-weight:bold;
+}
+.container{
+ font-family: 'Gayathri', sans-serif;
+ color:white;
+ text-shadow: 2px 2px black;
+ margin-bottom: 300px;
+}
+.container-fluid{margin-top: 310px;
+}
+
+.text {
+ font-family: 'Bilbo Swash Caps', cursive;
+ text-shadow: 2px 2px rgb(180, 180, 180);
+ color: black;
+  font-weight: bold;
+  font-size: 30px;
+margin-left: 30%;
+margin-top: 5%;
+ 
 }
