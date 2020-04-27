@@ -23,7 +23,7 @@ h6{font-size: 18px;
  font-family: 'Gayathri', sans-serif;
  color:white;
  text-shadow: 2px 2px black;
- margin-bottom: 300px;
+ margin-bottom: 1000px;
 }
 .container-fluid{margin-top: 310px;
 }
@@ -37,4 +37,12 @@ h6{font-size: 18px;
 margin-left: 30%;
 margin-top: 5%;
  
+}
+#map{
+    border-style: solid;
+     border-width: 5px;
+      border-color: white;
+    height: 400px;  /* The height is 400 pixels */
+        width: 400px;  /* The width is the width of the web page */
+
 }
