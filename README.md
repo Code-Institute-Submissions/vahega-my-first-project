@@ -1,11 +1,32 @@
-Horizon  
+Horizon
+Summery 
+The website is for Knowledge management basic information.   
+ 
+What is the base site for.
 The website for Managing Knowledge.
-"Knowledge management is a discipline that promotes an integrated approach to identifying, 
-capturing, evaluating, retrieving, and sharing all of an enterprise's information assets.
+Knowledge management is a discipline that promotes an integrated approach to identifying,
+capturing,evaluating,retrieving,and sharing all of an enterprise's information assets.
 These assets may include databases, documents, policies, procedures, 
-and previously un-captured expertise and experience in individual workers."
-This web site will provide the user to to create a knowledge base data . 
+and previously un-captured expertise and experience in individual workers.
+This web site will provide the user to create a knowledge database . 
 Marketing tool for that data .
-Tool use for project 
-Bootstrap templet 
-https://w3schools.com templet 
+ 
+How is it work 
+The website is using HTML. CSS style . JQuery , Bootstrap 4. 
+
+
+Used google help
+How to 
+
+How To attach a video to Website.
+https://youtu.be/HFTvaOjWk2c
+How to attach an image to a web site.
+https://youtu.be/Qerz5CQa2A8?t=3
+https://www.w3schools.com/html/html_images.asp
+
+How to set up an image as background.
+https://youtu.be/aggIN0zcaK0?t=5
+https://www.w3schools.com/css/css_background.asp
+Tech used.
+
+You tube use  

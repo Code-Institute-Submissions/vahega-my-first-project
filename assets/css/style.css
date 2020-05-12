@@ -2,13 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Gayathri&display=swap');
 .parallax {
   background-image:url("assets/images/hol.jpg") ;
-
 background-attachment:fixed;
 background-position:center;
 background-size: cover;
  }
-
-
 .card{ font-family: 'Gayathri', sans-serif;
  background-color: #b3e6ff; 
  margin-bottom:0px;
@@ -20,30 +17,88 @@ h6{font-size: 18px;
 }
 .collapse{font-size: 22px;}
 .container{
+ padding: 0px;
  font-family: 'Gayathri', sans-serif;
  color:white;
-
- margin-bottom: 1000px;
+ margin-bottom: 200px;
 }
-.container-fluid{margin-top: 310px;
+.container-fluid{margin-top:200px;
 }
-
 .text {
  font-family: 'Bilbo Swash Caps', cursive;
  text-shadow: 2px 2px rgb(180, 180, 180);
  color: black;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 40px;
 margin-left: 30%;
-margin-top: 5%;
- 
+margin-top: 10%;
+}
+.hubtext{
+text-shadow: 2px 2px rgb(0,0, 0);
+color: rgba(12, 1, 1, 0.904)
+font-weight: bold;
+font-size: 20px;
 }
 #map{
-   
-    border-style: solid;
+    padding: 0px;
+     border-style: solid;
      border-width: 5px;
       border-color: white;
-    height: 400px;  /* The height is 400 pixels */
-        width: 400px;  /* The width is the width of the web page */
+   height: 400px;  
+        width: 375px;
+}
+* {box-sizing: border-box}
 
+img {vertical-align: middle;}
+.slideshow-container {
+  background-size: cover;
+  max-width: 800px;
+  position: relative;
+  margin: auto;
+}
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 2s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
 }
