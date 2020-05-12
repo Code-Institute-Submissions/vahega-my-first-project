@@ -8,8 +8,7 @@ console.log(contactForm.projectsummary);
     .then(
         function(response) {
             console.log("SUCCESS", response);
-           
-               },
+              },
              function(error) {
               console.log("FAILED", error);
              }

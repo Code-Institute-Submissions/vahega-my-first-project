@@ -6,6 +6,10 @@ background-attachment:fixed;
 background-position:center;
 background-size: cover;
  }
+ .row{
+     margin-left: 0px;
+     margin-right: 0px;
+ }
 
 .card{ font-family: 'Gayathri', sans-serif;
  background-color: #b3e6ff; 
@@ -27,12 +31,14 @@ padding: 0px;
 }
 .text {
  font-family: 'Bilbo Swash Caps', cursive;
- text-shadow: 2px 2px rgb(180, 180, 180);
+ text-shadow: 3px 3px rgb(180, 180, 180);
  color: black;
+ position: relative;
   font-weight: bold;
   font-size: 40px;
-text:center;
 margin-top: 10%;
+ text-align: center;
+
 }
 .hubtext{
 text-shadow: 2px 2px rgb(0,0, 0);
@@ -46,7 +52,11 @@ font-size: 20px;
      border-width: 5px;
       border-color: white;
    height: 400px;  
-        width: 375px;
+        width: 350px;
+        background-attachment:fixed;
+background-position:center;
+background-size: cover;
+        
 }
 * {box-sizing: border-box}
 
@@ -55,7 +65,8 @@ img {vertical-align: middle;}
   background-size: cover;
   max-width: 800px;
   position: relative;
-  margin: auto;
+  margin-left:10px;
+  margin-right: 10px; 
 }
 .prev, .next {
   cursor: pointer;
