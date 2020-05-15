@@ -8,10 +8,16 @@ console.log(contactForm.projectsummary);
     .then(
         function(response) {
             console.log("SUCCESS", response);
-              },
+            },
              function(error) {
               console.log("FAILED", error);
              }
              );
              return false;  
 }
+//.remove();.val("");
+///onclick="document.getElementById('formid').reset();"
+///onclick="resetForm();
+/// onclick="$('form')[0].reset()"
+///this.form.elements['contactForm'].value=''
+///<button type="reset" class="btn btn-default">Reset</button>
