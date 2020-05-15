@@ -39,3 +39,4 @@ Eamiljs was use to set up email for the website.
 
 Testing 
 The website was tested for  Error and responsive  mobile-first sites margen and email input resetting .
+I had to add a reset button to clear the email Information .
