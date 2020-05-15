@@ -8,6 +8,7 @@ console.log(contactForm.projectsummary);
     .then(
         function(response) {
             console.log("SUCCESS", response);
+            document.getElementById("fullname").innerHTML = "";
            },
              function(error) {
               console.log("FAILED", error);
